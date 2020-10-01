@@ -3,3 +3,5 @@ if __name__ == '__main__':
     y = int(input())
     z = int(input())
     n = int(input())
+    c = int(input())
+    a = float(input())
